@@ -19,4 +19,3 @@ In this series of exercises, we practice various refactoring techniques. You may
 
 - [ ]  Exercise 6: Various Techniques
   - Study the file [best_students.py](best_students.py). Use `Replace Temp with query` and `extract function` techniques to improve readability of the code. 
-# composing-methods-refactor
